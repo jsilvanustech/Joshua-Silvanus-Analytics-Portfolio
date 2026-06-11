@@ -1,8 +1,12 @@
 # Joshua Silvanus | Analytics Portfolio
 
-Business Analytics & Economics graduate with experience applying 
-machine learning, business intelligence, and data visualization to 
-solve operational and strategic problems.
+Business Analytics & Economics graduate using data science, business intelligence, and strategy to turn complex problems into actionable decisions.
+
+My work focuses on:
+- Predictive analytics
+- Business intelligence dashboards
+- Customer and operational insights
+- Machine learning applications
 
 ## Featured Projects
 
@@ -46,3 +50,8 @@ Power BI | Data Modeling | Data Visualization | Excel | Exploratory Data Analysi
 - Developed executive dashboard views for decision-making
 
 [View Project](./02_Student_Success_PowerBI_Dashboard)
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/joshua-silvanus-4b9009251/
+Email: jsilvanu@trinity.edu
