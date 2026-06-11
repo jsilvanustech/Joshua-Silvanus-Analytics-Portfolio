@@ -51,6 +51,24 @@ Power BI | Data Modeling | Data Visualization | Excel | Exploratory Data Analysi
 
 [View Project](./02_Student_Success_PowerBI_Dashboard)
 
+---
+
+## 3. Student Engagement Analytics Consulting Project
+
+### Objective
+Analyzed institutional student engagement data for Trinity University's Office of Institutional Research & Effectiveness to identify engagement trends and provide data-driven recommendations for improving the undergraduate experience.
+
+### Tools
+Python | Statistical Analysis | ANOVA | Survey Analytics | Data Cleaning | Consulting Strategy
+
+### Highlights
+- Analyzed 1,000+ NSSE survey responses across multiple academic years
+- Evaluated changes in student engagement using longitudinal and statistical analysis methods
+- Identified faculty interaction and early experiential learning as key opportunities for improving student outcomes
+- Translated analytical findings into strategic recommendations and an 18-month implementation roadmap for university stakeholders
+
+📑 [Explore Consulting Analytics Project](./03_TUIR_Student_Engagement_Analytics_Consulting)
+
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/joshua-silvanus-4b9009251/
