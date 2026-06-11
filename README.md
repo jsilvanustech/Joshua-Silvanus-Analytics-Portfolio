@@ -68,7 +68,7 @@ Python | Statistical Analysis | ANOVA | Survey Analytics | Data Cleaning | Consu
 - Identified faculty interaction and early experiential learning as key opportunities for improving student outcomes
 - Translated analytical findings into strategic recommendations and an 18-month implementation roadmap for university stakeholders
 
-📑 [Explore Consulting Analytics Project](./03_TUIR_Student_Engagement_Analytics_Consulting)
+[View Project](./03_TUIR_Student_Engagement_Analytics_Consulting)
 
 ## Connect
 
