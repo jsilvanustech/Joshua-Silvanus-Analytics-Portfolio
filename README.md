@@ -11,7 +11,7 @@ My work focuses on:
 ## Featured Projects
 
 
-## 1. Sunoco Gasoline Demand Forecasting
+## 1. Sunoco Gasoline Demand Forecasting: Predicting High-Demand Weeks with Machine Learning
 
 ### Objective
 Developed a machine learning early-warning system to predict 
@@ -35,7 +35,7 @@ Python | pandas | scikit-learn | XGBoost | Machine Learning
 ---
 
 
-## 2. Student Success Analytics Dashboard
+## 2. Student Success Analytics Dashboard: Identifying Drivers of Academic Performance
 
 ### Objective
 Built an interactive Power BI dashboard analyzing academic and 
