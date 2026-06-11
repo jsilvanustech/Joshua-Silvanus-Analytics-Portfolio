@@ -25,7 +25,7 @@ Python | pandas | scikit-learn | XGBoost | Machine Learning
     - 73% high-demand identification
     - Only 3 false alerts annually
 
-[View Project](folder link)
+[View Project](./01_Sunoco_Gasoline_Demand_Forecasting)
 
 
 ---
@@ -45,4 +45,4 @@ Power BI | Data Modeling | Data Visualization | Excel | Exploratory Data Analysi
 - Created demographic and geographic insights
 - Developed executive dashboard views for decision-making
 
-[View Project](folder link)
+[View Project](./02_Student_Success_PowerBI_Dashboard)
