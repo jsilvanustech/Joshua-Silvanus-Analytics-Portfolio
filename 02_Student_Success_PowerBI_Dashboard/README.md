@@ -40,6 +40,6 @@ The dashboard explores relationships between:
 
 Power BI  
 Excel  
-Data Visualization  
-Data Modeling
+Data Visualization 
 Exploratory Data Analysis
+Data Modeling
