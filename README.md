@@ -38,7 +38,7 @@ Built an interactive Power BI dashboard analyzing academic and
 demographic factors influencing student performance.
 
 ### Tools
-Power BI | Data Modeling | Data Visualization
+Power BI | Data Modeling | Data Visualization | Excel | Exploratory Data Analysis
 
 ### Highlights
 - Analyzed GPA performance trends
