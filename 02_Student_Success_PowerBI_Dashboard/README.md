@@ -42,3 +42,4 @@ Power BI
 Excel  
 Data Visualization  
 Exploratory Data Analysis
+Data Modeling
