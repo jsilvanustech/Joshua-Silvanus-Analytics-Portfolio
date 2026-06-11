@@ -53,7 +53,7 @@ Power BI | Data Modeling | Data Visualization | Excel | Exploratory Data Analysi
 
 ---
 
-## 3. Student Engagement Analytics Consulting Project
+## 3. Student Engagement Analytics: Turning Institutional Data into Actionable Strategy
 
 ### Objective
 Analyzed institutional student engagement data for Trinity University's Office of Institutional Research & Effectiveness to identify engagement trends and provide data-driven recommendations for improving the undergraduate experience.
