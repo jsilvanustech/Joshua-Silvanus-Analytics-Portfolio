@@ -1,12 +1,13 @@
 # Joshua Silvanus | Analytics Portfolio
 
-Business Analytics & Economics graduate using data science, business intelligence, and strategy to turn complex problems into actionable decisions.
+Business Analytics & Economics graduate applying analytics, statistics, and strategy to transform complex data into actionable business decisions.
 
 My work focuses on:
-- Predictive analytics
-- Business intelligence dashboards
-- Customer and operational insights
-- Machine learning applications
+
+- Predictive analytics & machine learning
+- Business intelligence and dashboard development
+- Statistical analysis and research insights
+- Strategy development and data-driven recommendations
 
 ## Featured Projects
 
