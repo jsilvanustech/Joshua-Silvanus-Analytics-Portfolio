@@ -28,7 +28,6 @@ As the primary technical contributor, my responsibilities included:
 - Implemented and evaluated machine learning models including:
   - XGBoost
   - CatBoost
-  - Neural Networks
 - Designed a cost-sensitive evaluation framework prioritizing Sunoco's objective of minimizing false positives
 - Tuned model thresholds to balance prediction accuracy with operational decision costs
 - Developed model interpretation outputs including feature importance analysis
